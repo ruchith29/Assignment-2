@@ -1,0 +1,11 @@
+{
+    "firstname": "Ruchith",
+    "lastname": "Keerala",
+    "branch": "IT",
+    "address": "Hyderabad",
+    "marks": {
+        "M1": 95,
+        "Python": 98,
+        "DBMS": 96
+    }
+}

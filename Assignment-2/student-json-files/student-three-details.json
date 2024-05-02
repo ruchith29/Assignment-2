@@ -1,0 +1,14 @@
+{
+    "firstname":"Akshitha",
+    "lastname": "CH",
+    "branch":"EEE",
+    "address":"Bhainsa",
+    "marks":{
+        "M1":100,
+        "Python":88,
+        "DBMS":93
+    },
+    "totalmarks":0,
+    "percentage":0.0
+
+}

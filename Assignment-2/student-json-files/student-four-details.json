@@ -1,0 +1,13 @@
+{
+    "firstname":"Chandu",
+    "lastname": "Vishwakarma",
+    "branch":"IT",
+    "address":"Narsapur",
+    "marks":{
+        "M1":89,
+        "Python":78,
+        "DBMS":69
+    },
+    "totalmarks":0,
+    "percentage":0.0
+}

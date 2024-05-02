@@ -1,0 +1,14 @@
+{
+    "firstname":"Shreya",
+    "lastname": "Sankepally",
+    "branch":"CSE",
+    "address":"Tandur",
+    "marks":{
+        "M1":90,
+        "Python":88,
+        "DBMS":80
+    },
+    "totalmarks":0,
+    "percentage":0.0
+
+}
